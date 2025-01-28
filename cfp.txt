@@ -1,0 +1,79 @@
+The 30th Annual International Conference on Natural Language & Information Systems (NLDB 2025)
+==========
+
+
+Conference Website
+----------
+https://www.jaist.ac.jp/event/nldb2025
+
+
+Dates and Venue
+----------
+4-6 July 2025
+Kanazawa Chamber of Commerce and Industry
+9-13 Oyamamachi, Kanazawa, Ishikawa 920-0918, Japan
+
+
+Introduction
+----------
+The 30th Annual International Conference on Natural Language & Information Systems (NLDB 2025) will be held in the City of Kanazawa, Japan from July 4-6, 2025. More details on the conference program, registration, and accommodation will be announced in due time.
+Since 1995, the NLDB conference has brought together researchers, industry practitioners, and potential users interested in applying Natural Language Processing (NLP) to Database and Information Systems. Topics cover a wide range of NLP applications in Information and Communication Systems, including Big Data, Linked Data and Social Networks.
+In recent years, NLP has seen exciting advances like Large Language Models, transparency and bias in AI, multimodal models combining NLP and Computer Vision, and conversational AI. These innovations are now powering real-world enterprise applications like recommender systems, sentiment analysis, chatbots, and more.
+Thanks to open-source communities, pre-trained language models can now be easily fine-tuned on custom datasets. Businesses are rapidly adopting these latest NLP technologies to solve industry problems.
+The 30th NLDB conference provides a forum to share the latest research and industrial applications of NLP across information systems. We welcome novel, unpublished works on all NLP topics and their applications.
+
+
+Call for Papers
+----------
+NLDB 2024 invites authors to submit papers for oral presentations on unpublished research that addresses theoretical aspects, algorithms, applications, architectures for applied and integrated NLP, resources for applied NLP, and other aspects of NLP, as well as survey and discussion papers. This year’s edition of NLDB continues with the Industry Track, to foster fruitful interaction between the industry and the research community. 
+
+Topics of interest include but are not limited to:
+-  Large Language Models: training, applications, transfer learning, interpretability of large language models.
+-  Multimodal Models: Integration of text with other modalities like images, video, and audio; multimodal representation learning; applications of multimodal models.
+-  AI Safety and ethics: Safe and ethical use of Generative AI and NLP; avoiding and mitigating biases in NLP models and systems; explainability and transparency in AI.
+-  Natural Language Interfaces and Interaction: design and implementation of Natural Language Interfaces, user studies with human participants on Conversational User Interfaces, chatbots and LLM-based chatbots and their interaction with users.
+-  Social Media and Web Analytics: Opinion mining/sentiment analysis, irony/sarcasm detection; detection of fake reviews and deceptive language; detection of harmful information: fake news and hate speech; sexism and misogyny; detection of mental health disorders; identification of stereotypes and social biases; robust NLP methods for sparse, ill-formed texts; recommendation systems.
+-  Deep Learning and eXplainable Artificial Intelligence (XAI): Deep learning architectures, word embeddings, transparency, interpretability, fairness, debiasing, ethics.
+-  Argumentation Mining and Applications: Automatic detection of argumentation components and relationships; creation of resource (e.g. annotated corpora, treebanks and parsers); Integration of NLP techniques with formal, abstract argumentation structures; Argumentation Mining from legal texts and scientific articles.
+-  Question Answering (QA): Natural language interfaces to databases, QA using web data, multi-lingual QA, non-factoid QA(how/why/opinion questions, lists), geographical QA, QA corpora and training sets, QA over linked data (QALD).
+-  Corpus Analysis: multi-lingual, multi-cultural and multi-modal corpora; machine translation, text analysis, text classification and clustering; language identification; plagiarism detection; information extraction: named entity, extraction of events, terms and semantic relationships.
+-  Semantic Web, Open Linked Data, and Ontologies: Ontology learning and alignment, ontology population, ontology evaluation, querying ontologies and linked data, semantic tagging and classification, ontology-driven NLP, ontology-driven systems integration.
+-  Natural Language in Conceptual Modelling: Analysis of natural language descriptions, NLP in requirement engineering, terminological ontologies, consistency checking, metadata creation and harvesting.
+-  Natural Language and Ubiquitous Computing: Pervasive computing, embedded, robotic and mobile applications; conversational agents; NLP techniques for Internet of Things (IoT); NLP techniques for ambient intelligence
+-  Big Data and Business Intelligence: Identity detection, semantic data cleaning, summarisation, reporting, and data to text.
+
+This year’s conference tracks are:
+The main track solicits novel and significant research contributions addressing theoretical aspects, algorithms, applications, architectures, resources, and other aspects of NLP, as well as survey and discussion papers. We welcome work describing original and replicable research showing evidence of significant contribution to the NLP community.
+The industry track covers all aspects of innovative commercial or industrial-strength NLP technologies in order to showcase the state of adoption. It welcomes contributions about case studies of success stories, discussion reports of obstacles that stand in the way of adoption of NLP technologies, and experience reports in applying recent research advances to relevant industry problems. We encourage results and ideas from companies small and large.
+
+
+Important Dates
+----------
+1 Oct 2024: Call for papers
+28 Feb 2025: Submission deadline
+18 Apr 2025: Authors notification
+9 May 2025: Camera ready
+All deadlines are 11:59PM UTC-12:00 AoE
+
+
+Publication
+----------
+The conference proceedings will be publisehd in Lecture Notes in Computer Science (LNCS, Springer).
+Best papers will be invited to publish in the special issue of Data & Knowledge Engineering (DKE, Elsevier).
+
+
+Instructions for Submissions
+----------
+Authors should follow the LNCS format and submit their manuscripts in pdf via Easychair. Papers that do not adhere to the format will be desk-rejected.
+Papers can be submitted to either the main conference or the industry track.
+Submissions can be full papers (up to 15 pages including references and appendices), short papers (up to 11 pages including references and appendices) or papers for a demo (6 pages including references). The program committee may decide to accept some full papers as short papers or demo papers. Concurrent submissions are NOT allowed: a paper to be presented at NLDB must be withdrawn from other conferences and workshops.
+Papers presented at NLDB 2025 must represent new work that has not been previously published. It is the responsibility of the authors to inform the chairs of any potential problem with respect to this requirement, as noted in the following guidelines.
+Papers that have appeared at a conference with published proceedings constitute previously published work.
+Papers that overlap other papers that have appeared at a conference with published proceedings must contain significant new results. Authors must include on the title page a list of any previous papers that the current paper overlaps or extends, and must identify the significant new results contained in the new submission. The program chairs have the final decision about what constitutes significant new results.
+Papers that have appeared at a workshop do not constitute previously published work, as long as the paper submitted to NLDB is an extension of the workshop paper. Extensions might include new results, more in-depth analysis, evaluation that was not part of the workshop paper, or further experiments. Authors must include on the title page a list of any previous workshop papers that the current paper extends, and must identify how the current submission extends the previous workshop papers. The program chairs have the final decision about whether the NLDB submission represents an extension of the workshop papers.
+The reviewing process of NLDB 2025 is double-blind, i.e., submissions to the main track and to the industry track must not contain author names or other identifying information, such as funding sources, acknowledgments and must use the third person to refer to work the authors have previously undertaken.
+
+
+Contact
+----------
+All questions about submissions should be emailed to: nldb2025@easychair.org

@@ -1,0 +1,10 @@
+#contact {
+    margin-top: 80px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#contact .icon img {
+    width: 64px;
+    margin-bottom: 15px;
+}

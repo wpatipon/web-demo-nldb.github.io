@@ -1,0 +1,251 @@
+.village {
+    width: 100%;
+    height: 90vh;
+    background-image: url(../images/cfp/village.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.section {
+    text-align: center;
+}
+
+.section .header {
+    margin-top: 10px;
+}
+
+.section .header .icon img {
+    height: 128px;
+    margin-bottom: 10px;
+}
+
+.section .header .title {
+    width: 100%;
+    font-size: 2em;
+    font-family: "IBM Plex Sans", "Arial", sans-serif;
+    font-weight: 500;
+}
+
+.section .header .description {
+    display: inline-block;
+    font-size: 1.3em;
+    max-width: 300px;
+    opacity: .6;
+}
+
+.section .content {
+    width: 100%;
+}
+
+.section .content .note {
+    display: inline-block;
+    color: #666;
+    font-size: .95em;
+    max-width: 400px;
+    margin-top: 10px;
+}
+
+.section .actions .btn {
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.section.dual {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    column-gap: 15px;
+    row-gap: 15px;
+    padding: 15px;
+    margin-right: 15px;
+}
+
+@media only screen and (max-width: 1180px) {
+    .section.dual {
+        grid-template-columns: 100%;
+    }
+}
+
+.section.dual > .column {
+    text-align: center;
+    min-height: 600px;
+    height: 600px;
+}
+
+.section.dual > .column.grey {
+    background-color: #fafafa;
+}
+
+#cfp {
+    padding: 20px;
+    margin-top: -150px;
+    background-color: rgba(255, 255, 255, .8);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+}
+
+#cfp .content {
+    font-size: 1.1em;
+    text-overflow: clip;
+}
+
+#topics .topic {
+    display: inline-block;
+    max-width: 300px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    vertical-align: top;
+}
+
+@media only screen and (max-width: 1200px) {
+    #topics .topic {
+        max-width: 45%;
+        margin-right: 0px;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    #topics .topic {
+        max-width: 90%;
+    }
+}
+
+
+#topics .title {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+#topics .more {
+    display: inline-block;
+    width: 300px;
+    height: 125px;
+}
+
+#topics .more .box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+#dates table {
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 1.1em;
+}
+
+#dates td {
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+#dates td:first-child div {
+    text-align: center;
+    width: 100px;
+    font-size: .8em;
+    padding: 10px 10px;
+    border-radius: 20px;
+}
+
+#dates td:nth-child(2) {
+    padding-left: 15px;
+}
+
+#dates td:last-child {
+    padding-left: 15px;
+    text-align: right;
+}
+
+#dates tr.in-progress td:first-child div {
+    color: white;
+    background-color: #066CDF;
+}
+
+#dates tr.in-progress td:nth-child(2),
+#dates tr.in-progress td:last-child {
+    color: #066CDF;
+}
+
+#dates tr.pending td:first-child div {
+    color: #888;
+    background-color: #ccc;
+}
+
+#dates tr.pending td:nth-child(2),
+#dates tr.pending td:last-child {
+    color: rgba(0, 0, 0, .7);
+}
+
+#lengths .content {
+    display: grid;
+    grid-template-columns: 33% auto 33%;
+    column-gap: 15px;
+    row-gap: 15px;
+    margin-top: 20px;
+}
+
+#lengths .pages {
+    font-size: 3em;
+    color: #066CDF;
+}
+
+#lengths .type {
+    font-weight: 500;
+    font-size: 1.5em;
+}
+
+#lengths .paper {
+    font-weight: 400;
+    font-size: 1.3em;
+}
+
+#lengths .actions {
+    margin-top: 50px;
+}
+
+#lncs h2 {
+    margin-top: 10px;
+}
+
+#lncs .banner {
+    display: grid;
+    grid-template-columns: 500px auto;
+    margin-bottom: 15px;
+}
+
+#lncs .knight {
+    min-height: 300px;
+    background-image: url(../images/index/knight.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#lncs .content {
+    align-content: center;
+    margin-left: 15px;
+    padding-left: 15px;
+    background-color: #fafafa;
+}
+
+@media only screen and (max-width: 1180px) {
+    #lncs .banner {
+        grid-template-columns: 100%;
+    }
+
+    #lncs .knight {
+        margin-bottom: 15px;
+    }
+
+    #lncs .content {
+        margin-left: 0px;
+        padding-left: 0px;
+        background-color: white;
+    }
+}
+
+#lncs h4 {
+    margin-top: 30px;
+}

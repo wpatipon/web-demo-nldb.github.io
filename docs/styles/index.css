@@ -135,6 +135,7 @@
     row-gap: 15px;
     /* overflow-x: hidden; */
     overflow: fixed;
+    position: fixed;
 }
 
 .section.dual > .column {

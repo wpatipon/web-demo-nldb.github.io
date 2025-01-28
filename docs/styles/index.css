@@ -1,3 +1,5 @@
+html, body {margin: 0; height: 100%; overflow: hidden}
+
 .landing {
     width: 100%;
     padding-top: 50px;
@@ -134,8 +136,6 @@
     column-gap: 15px;
     row-gap: 15px;
     /* overflow-x: hidden; */
-    overflow: fixed;
-    position: fixed;
 }
 
 .section.dual > .column {

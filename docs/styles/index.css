@@ -477,7 +477,7 @@
     position: relative;
 }
 
-#promo .promo-title .promo-text {
+#promo .promo-title .promo-text .promo-text-mobile {
     text-shadow: 2px 2px black;
 }
 
@@ -528,6 +528,10 @@
         display: none;
     }
 
+    #promo .promo-text-mobile {
+        display: inline-block;
+    }
+
     #promo .promo-img {
         display: none; /* Hide the main image */
     }
@@ -550,6 +554,10 @@
 
     #promo .promo-text {
         font-size: 1.3em;
+    }
+
+    #promo .promo-text-mobile {
+        display: inline-block;
     }
 
     #promo .promo-img {
@@ -575,6 +583,10 @@
     #promo .promo-text {
         display: inline-block;
         font-size: 1.5em;
+    }
+
+    #promo .promo-text-mobile {
+        display: none;
     }
 
     #promo .promo-img {

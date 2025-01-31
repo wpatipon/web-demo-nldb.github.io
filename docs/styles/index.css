@@ -412,7 +412,7 @@
 #map {
     width: 100%;
     height: 600px;
-    background-image: url(../images/index/japan.jpg?refresh=1);
+    background-image: url(../images/index/japan.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -529,7 +529,7 @@
     }
 
     #promo .promo-text-mobile {
-        display: inline-block;
+        display: block;
     }
 
     #promo .promo-img {
@@ -553,11 +553,12 @@
     }
 
     #promo .promo-text {
+        display: block;
         font-size: 1.3em;
     }
 
     #promo .promo-text-mobile {
-        display: inline-block;
+        display: none;
     }
 
     #promo .promo-img {
@@ -581,7 +582,7 @@
     }
 
     #promo .promo-text {
-        display: inline-block;
+        display: block;
         font-size: 1.5em;
     }
 

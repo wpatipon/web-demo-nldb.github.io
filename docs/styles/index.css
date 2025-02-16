@@ -84,7 +84,7 @@
 .section .header .description {
     display: inline-block;
     font-size: 1.3em;
-    max-width: 300px;
+    max-width: 400px; /* 300px; */
     opacity: .6;
 }
 
@@ -138,8 +138,8 @@
 
 .section.dual > .column {
     text-align: center;
-    min-height: 600px;
-    height: 600px;
+    min-height: 650px; /* 600 px; */
+    height: 650px; /* 600 px; */
 }
 
 @media only screen and (max-width: 1180px) {
@@ -148,8 +148,9 @@
     }
 
     .section.dual > .column {
-        min-height: 550px;
-        height: 550px;
+        min-height: 600px; /* 550px; */
+        height: 600px; /* 550px; */
+        font-size: 0.9rem;
     }
 }
 
@@ -227,6 +228,8 @@
     text-align: right;
 }
 
+
+/* ----- Important date ----- */
 #dates tr.in-progress td:first-child div {
     color: white;
     background-color: #066CDF;
@@ -236,7 +239,7 @@
 #dates tr.in-progress td:last-child {
     color: #066CDF;
 }
-
+/* -------------------------- */
 #dates tr.pending td:first-child div {
     color: #888;
     background-color: #ccc;
@@ -246,7 +249,19 @@
 #dates tr.pending td:last-child {
     color: rgba(0, 0, 0, .7);
 }
+/* -------------------------- */
+#dates tr.completed td:first-child div {
+    color: white;
+    background-color: #ccc;
+}
 
+#dates tr.completed td:nth-child(2),
+#dates tr.completed td:last-child {
+    color: #ccc;
+}
+/* -------------------------- */
+
+ 
 #lengths .content {
     display: grid;
     grid-template-columns: 33% auto 33%;

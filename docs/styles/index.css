@@ -148,8 +148,8 @@
     }
 
     .section.dual > .column {
-        min-height: 620px; /* 550px; */
-        height: 620px; /* 550px; */
+        min-height: 600px; /* 550px; */
+        height: auto; /* 550px; */
         font-size: 0.9rem;
     }
 }

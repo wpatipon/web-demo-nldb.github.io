@@ -138,8 +138,8 @@
 
 .section.dual > .column {
     text-align: center;
-    min-height: 650px; /* 600 px; */
-    height: 650px; /* 600 px; */
+    min-height: 600px; /* 600 px; */
+    height: 600px; /* 600 px; */
 }
 
 @media only screen and (max-width: 1180px) {
@@ -148,8 +148,8 @@
     }
 
     .section.dual > .column {
-        min-height: 600px; /* 550px; */
-        height: auto; /* 550px; */
+        min-height: 550px; /* 550px; */
+        height: 550px; /* 550px; */
         font-size: 0.9rem;
     }
 }
@@ -250,15 +250,11 @@
     color: rgba(0, 0, 0, .7);
 }
 /* -------------------------- */
-#dates tr.completed td:first-child div {
-    color: white;
-    background-color: #ccc;
+
+#dates tr.completed {
+    color: #888; 
 }
 
-#dates tr.completed td:nth-child(2),
-#dates tr.completed td:last-child {
-    color: #ccc;
-}
 /* -------------------------- */
 
  

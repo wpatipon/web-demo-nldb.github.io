@@ -84,7 +84,7 @@
 .section .header .description {
     display: inline-block;
     font-size: 1.3em;
-    max-width: 400px; /* 300px; */
+    max-width: 300px; /* 300px; */
     opacity: .6;
 }
 

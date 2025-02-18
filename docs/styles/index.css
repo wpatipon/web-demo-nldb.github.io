@@ -213,7 +213,8 @@
 
 #dates td:first-child div {
     text-align: center;
-    width: 100px;
+    max-width: 100px;
+    width: auto;
     font-size: .8em;
     padding: 10px 10px;
     border-radius: 20px;

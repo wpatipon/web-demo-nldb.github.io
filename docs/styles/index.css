@@ -249,11 +249,6 @@
 #dates tr.pending td:last-child {
     color: rgba(0, 0, 0, .7);
 }
-/* -------------------------- */
-
-#dates tr.completed {
-    color: #888; 
-}
 
 /* -------------------------- */
 
@@ -609,3 +604,4 @@
         display: none;
     }
 }
+

@@ -62,6 +62,10 @@ h1.continuous {
         margin-left: 0px;
         margin-right: 0px;
     }
+
+    .member .affiliation {
+        font-size: 0.9em;
+    }
 }
 
 .member {
@@ -70,6 +74,7 @@ h1.continuous {
 
 .member .picture {
     height: 100%;
+    width: 100%;
 }
 
 .member .detail {

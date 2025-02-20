@@ -22,7 +22,11 @@
             display: none !important;
         }
         .show-on-mobile {
-            display: inline-block !important;
+            display: flex !important;
+            justify-content: center;  /* Center horizontally */
+            align-items: center;      /* Center vertically */
+            text-align: center;       /* Ensure inline elements (like text) are centered */
+            width: 100%;              /* Full width to properly center */
         }
     }
 
@@ -42,7 +46,7 @@
     <!-- Logo and Toggle Button in One Row -->
     <div class="d-flex justify-content-between align-items-center w-100">
       <!-- Logo for Mobile -->
-      <div class="show-on-mobile" style="padding-left: 220px;">
+      <div class="show-on-mobile">
         <a class="navbar-brand p-0 m-0" href="index.html">
             <img src="images/logo/small-h.png" style="height: 35px;">
         </a>

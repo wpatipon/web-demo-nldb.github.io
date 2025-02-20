@@ -16,17 +16,25 @@
             opacity: 1;
         }
     }
-
+    
+    
     @media only screen and (max-width: 990px) {
         .hide-on-mobile {
             display: none !important;
         }
         .show-on-mobile {
-            display: flex !important;
+            display: flex;
             justify-content: center;  /* Center horizontally */
             align-items: center;      /* Center vertically */
-            text-align: center;       /* Ensure inline elements (like text) are centered */
-            width: 100%;              /* Full width to properly center */
+            text-align: center;       /* Ensure inline elements (like links) are centered */
+            width: 100%;              /* Full width for centering */
+            
+            position: absolute;       /* Position it at the top */
+            top: 10px;                /* Adjust as needed */
+            left: 50%;                /* Center horizontally */
+            transform: translateX(-50%); /* Adjust for exact horizontal centering */
+            
+            z-index: -999;            /* Ensure it's above other elements */
         }
     }
 

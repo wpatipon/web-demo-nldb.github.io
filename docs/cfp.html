@@ -18,75 +18,18 @@
   <head>
     <title>NLDB 2025</title>
     <link rel="icon" type="image/x-icon" href="images/logo/small-v.png">
+    <script> 
+      $(function(){
+        $("#includedNavbar").load("navbar.html"); 
+      });
+    </script> 
   </head>
 
   <body>
-    <div class="nav modal">
-      <div class="list">
-        <div class="item">
-          <a href="about.html">About</a>
-        </div>
-        <div class="item">
-          <a href="cfp.html">Call for Papers</a>
-        </div>
-        <div class="item">
-          <a href="registration.html">Registration</a>
-        </div>
-        <div class="item">
-          <a href="index.html#dates">Important Dates</a>
-        </div>
-        <div class="item">
-          <a href="guide.html">Author Guide</a>
-        </div>
-        <div class="item">
-          <a href="venue.html">Venue</a>
-        </div>
-        <div class="item">
-          <a href="committees.html">Committees</a>
-        </div>
-        <div class="item">
-          <a href="contact.html">Contact</a>
-        </div>
-      </div>
-    </div>
-    <div class="navigation">
-      <div class="box desktop">
-        <div class="logo">
-          <a href="index.html">
-            <img src="images/logo/small-h.png">
-          </a>
-        </div>
-        <div class="links">
-          <a href="about.html">About</a>
-          <a href="cfp.html">Call for Papers</a>
-          <a href="registration.html">Registration</a>
-          <a href="index.html#dates">Important Dates</a>
-          <a href="guide.html">Author Guide</a>
-          <a href="venue.html">Venue</a>
-          <a href="committees.html">Committees</a>
-          <a href="contact.html">Contact</a>
-        </div>
-      </div>
-      <div class="box mobile">
-        <div class="menu">
-          <span id="menu-button" class="material-symbols-outlined button">
-            menu
-          </span>
-        </div>
-        <div class="logo">
-          <a href="index.html">
-            <img src="images/logo/small-h.png">
-          </a>
-        </div>
-        <div class="submit">
-          <a href="guide.html">
-            <span class="material-symbols-outlined">
-              add
-            </span>
-          </a>
-        </div>
-      </div>
-    </div>
+
+    <!-- including Navbar -->
+    <div id="includedNavbar"></div>
+    
     <div class="village"></div>
     <div class="container" id="cfp">
       <section>

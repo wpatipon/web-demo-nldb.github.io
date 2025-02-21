@@ -1,12 +1,12 @@
 Name|Surname|Affiliation
 Flavius|Frasincar|Erasmus University Rotterdam
-Ana-Maria|Bucur|Interdisciplinary School of Doctoral Studies\nUniversity of Bucharest
+Ana-Maria|Bucur|University of Bucharest
 Valeriya|Goloviznina|Vyatka State University
 Benedetta|Muscato|University of Pisa
 Jelena|Mitrović|Faculty of Computer Science and Mathematics\nUniversity of Passau
-Roberto|Nai|Department of Computer Science\nUniversity of Torino
+Roberto|Nai|University of Torino
 Sabrina|Villata|Università degli Studi di Torino
-Dror|Mughaz|Department of Computer Science\nLev Academic Center
+Dror|Mughaz|Lev Academic Center
 Sowmya|Kamath S.|National Institute of Technology Karnataka
 Greta|Damo|Université Côte d'Azur
 Mauro|Dragoni|Fondazione Bruno Kessler
@@ -22,7 +22,7 @@ Gennaro|Vessio|University of Bari
 Mathieu|Roche|Cirad, TETIS
 Valerio|Basile|University of Turin
 Davide|Audrito|University of Bologna
-Danilo|Croce|Department of Enterprise Engineering\nUniversity of Roma Tor Vergata
+Danilo|Croce|University of Roma Tor Vergata
 Pier Felice|Balestrucci|Università degli Studi di Torino
 Maguelonne|Teisseire|Irstea\nUMR Tetis
 Komal|Florio|Università di Torino\nDipartimento di Informatica
@@ -31,7 +31,7 @@ Lucia|Siciliani|Dipartimento di Informatica\nUniversity of Bari Aldo Moro
 Christian|Kop|Alpen-Adria-Universitt Klagenfurt
 Emilio|Sulis|University of Turin
 Alessio|Miaschi|Institute for Computational Linguistics\n"A. Zampolli" (CNR-ILC)
-Epaminondas|Kapetanios|School of Physics, Engineering and Computer Science\nUniversity of Hertfordshire
+Epaminondas|Kapetanios|University of Hertfordshire
 Marco|Viviani|Università degli Studi di Milano-Bicocca
 Giancarlo|Sperlì|University of Naples Federico II
 Ziwei|Xu|National Institute of Advanced Industrial Science and Technology
@@ -49,7 +49,7 @@ Luigi|Di Caro|University of Torino
 Natalia|Loukachevitch|Research Computing Center of Moscow State University
 Federico|Torrielli|University of Torino
 Isabelle|Comyn-Wattiau|ESSEC Business School
-Vladimir A.|Fomichov|Department of Intelligent Monitoring Systems\nMoscow Aviation Institute
+Vladimir A.|Fomichov|Moscow Aviation Institute
 Mithun|Balakrishna|Lymba Corporation
 Manuel|Montes-Y-Gómez|Instituto Nacional de Astrofísica\nÓptica y Electrónica
 Raja|Chiky|ISEP
@@ -59,7 +59,7 @@ Asad|Abdi|University od Derby
 Evgeny|Kotelnikov|Vyatka State University
 Jacky|Akoka|CEDRIC-CNAM
 Soto|Montalvo|Universidad Rey Juan Carlos
-Fouzi|Harrag|Computer Science Department\nCollege of Sciences\nFerhat Abbas University
+Fouzi|Harrag|Ferhat Abbas University
 Riccardo|Renzulli|Università degli Studi di Torino
 Somnath|Banerjee|University of Tartu
 Nada|Mimouni|CEDRIC lab\nCNAM Conservatoire National des Arts et Métiers Paris
@@ -67,17 +67,17 @@ Cédric|Lopez|Emvista
 Imene|Bensalem|ESCF de Constantine and Constantine 2 University
 Federico|Ruggeri|University of Bologna
 Yasir|Arfat|University of Turin
-Stephan|Reiff-Marganiec|University of Derby; School of Electronics\nComputing and Maths
+Stephan|Reiff-Marganiec|University of Derby
 Dan|Tufis|Institutul de Cercetari pentru Inteligenta Artificiala\nAcademia Romana
 Paloma|Martínez Fernández|Universidad Carlos III de Madrid
 Esau|Villatoro-Tello|Idiap Research Institute
-Peerapon|Vateekul|Department of Computer Engineering\nChulalongkorn University
-Dittaya|Wanvarie|Department of Mathematics and Computer Science\nChulalongkorn University
+Peerapon|Vateekul|Chulalongkorn University
+Dittaya|Wanvarie|Chulalongkorn University
 Sumeth|Yuenyong|Mahidol University
 Thanapon|Noraset|Mahidol University
 Konlakorn|Wongpatikaseree|Mahidol University
 Rungsiman|Nararatwong|OUTSCALE, Dassault Systèmes
 Krung|Sinapiromsaran|Chulalongkorn University
 Irene|Siragusa|Università degli Studi di Palermo
-Vladimiro|Lovera Rulfi|Alma Mater Studiorum\nUniversità Di Bologna
-Areerat|Trongratsameethong|Department of Computer Science\nChiang Mai University
+Vladimiro|Lovera Rulfi|Università Di Bologna
+Areerat|Trongratsameethong|Chiang Mai University

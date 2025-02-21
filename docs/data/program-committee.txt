@@ -37,7 +37,7 @@ Giancarlo|Sperlì|University of Naples Federico II
 Ziwei|Xu|National Institute of Advanced Industrial Science and Technology
 Chaya|Liebeskind|Jerusalem College of Technology
 Krishnaprasad|Thirunarayan|Wright State University
-Davide|Buscaldi|Universit� Paris
+Davide|Buscaldi|Universit� Paris
 Lucia|Cascone|University of Salerno
 Tiberio|Uricchio|University of Macerata
 Ahsaas|Bajaj|Netaji Subhas Institute of Technology
@@ -76,7 +76,7 @@ Dittaya|Wanvarie|Department of Mathematics and Computer Science\nChulalongkorn U
 Sumeth|Yuenyong|Mahidol University
 Thanapon|Noraset|Mahidol University
 Konlakorn|Wongpatikaseree|Mahidol University
-Rungsiman|Nararatwong|National Institute of Advanced Industrial Science and Technology
+Rungsiman|Nararatwong|OUTSCALE, Dassault Systèmes
 Krung|Sinapiromsaran|Chulalongkorn University
 Irene|Siragusa|Università degli Studi di Palermo
 Vladimiro|Lovera Rulfi|Alma Mater Studiorum\nUniversità Di Bologna

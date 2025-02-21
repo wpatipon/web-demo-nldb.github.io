@@ -344,7 +344,7 @@
 
 #topics .topic {
     display: inline-block;
-    max-width: 30%;
+    max-width: 30%; 
     margin-right: 20px;
     margin-bottom: 30px;
     vertical-align: top;

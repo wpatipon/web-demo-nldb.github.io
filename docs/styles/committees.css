@@ -138,6 +138,11 @@ h1.continuous {
 
 .member .picture img {
     height: 100%;
+
+    max-width: 412px; 
+    width: auto; 
+    object-fit: cover; 
+    overflow: hidden;
 }
 
 .member .name {

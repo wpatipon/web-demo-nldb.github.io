@@ -5,6 +5,7 @@ Rathachai|Chawuthai|King Mongkut's Institute of Technology Ladkrabang
 Phuong Minh|Nguyen|Japan Advanced Institute of Science and Technology
 Mohammad Golam|Sohrab|National Institute of Advanced Industrial Science and Technology
 Naruemon|Pratanwanich|Chulalongkorn University
+Munasinghe|Lankeshwara|Robert Gordon University
 Flavius|Frasincar|Erasmus University Rotterdam
 Ana-Maria|Bucur|University of Bucharest
 Valeriya|Goloviznina|Vyatka State University

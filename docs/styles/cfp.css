@@ -68,7 +68,7 @@
 
 .section.dual > .column {
     text-align: center;
-    min-height: 600px;
+    /* min-height: 600px; */
     height: 600px;
 }
 

@@ -148,7 +148,7 @@
     }
 
     .section.dual > .column {
-        min-height: 550px; /* 550px; */
+        /* min-height: 550px; */ /* 550px; */
         height: 550px; /* 550px; */
         font-size: 0.9rem;
     }
